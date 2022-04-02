@@ -8,7 +8,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		System.out.println("Working master current code, but will be replaced by feature branch soon ");
+		System.out.println("Working New Thing to merge 2 into master branch version 2");
 	}
 
 }
