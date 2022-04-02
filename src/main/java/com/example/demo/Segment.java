@@ -3,7 +3,7 @@ package com.example.demo;
 public class Segment {
 
 	void printSegment() {
-		System.out.println("Segment feature version 2");
+		System.out.println("Segment master version 2");
 	}
 
 }
