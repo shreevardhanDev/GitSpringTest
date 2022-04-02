@@ -3,7 +3,7 @@ package com.example.demo;
 public class Customer {
 	
 	void printCustomer() {
-		System.out.println("rthsa feature version 4");
+		System.out.println("ss feature version 4");
 	}
 	void printCustomer2() {
 		System.out.println("Customer feature version 4");
@@ -59,7 +59,7 @@ public class Customer {
 	}
 	
 	void printCust6omer() {
-		System.out.println("sghsa feature version 4");
+		System.out.println("ss feature version 4");
 	}
 	
 	
